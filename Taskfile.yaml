@@ -1,5 +1,5 @@
 # See: https://taskfile.dev/api/
-
+# command: task generate
 version: "3"
 
 tasks:
